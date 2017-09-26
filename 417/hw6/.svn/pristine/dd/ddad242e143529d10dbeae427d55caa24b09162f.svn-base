@@ -1,0 +1,14 @@
+function F=forest(X,y,nt)
+% function F=forest(x,y,nt)
+%
+% INPUT:
+% X  | input vectors dxn
+% y  | input labels 1xn
+% nt | number of trees
+%
+% OUTPUT:
+% F | Forest
+%
+
+%% fill in code here
+

@@ -1,0 +1,14 @@
+This is your report from the Autograder. For this project we ran 1 evaluation(s) on your committed code.
+
+	On the cart_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 7 test(s) on this evaluation:
+		Test  1 failed (id3tree on xor data) due to a MATLAB error: Output argument "T" (and maybe others) not assigned during call to "id3tree".
+		Test  2 failed (id3tree with maxdepth) due to a MATLAB error: Output argument "T" (and maybe others) not assigned during call to "id3tree".
+		Test  3 failed (evaltree) due to a MATLAB error: Undefined function or variable "Txid3t1".
+		Test  4 failed (forest) due to a MATLAB error: Output argument "F" (and maybe others) not assigned during call to "forest".
+		Test  5 failed (prunetree) due to a MATLAB error: Output argument "T" (and maybe others) not assigned during call to "id3tree".
+		Test  6 failed (boosttree and evalboost) due to a MATLAB error: Output argument "BDT" (and maybe others) not assigned during call to "boosttree".
+		Test  7 failed (quality and efficiency (4 tests)) due to a MATLAB error: Output argument "T" (and maybe others) not assigned during call to "id3tree".
+
+
+For this project, you scored a total of 0 points.
